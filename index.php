@@ -2,7 +2,7 @@
     // initialize errors variable
   $server_name = "localhost";
   $username = "root";
-  $password = "awoboyever.com";
+  $password = "";
   $dbname = "todo_tasks";
 	$errors = "";
 
